@@ -1,7 +1,7 @@
 # techgadget
 
 Modified database:
-<br />invoice.shipmentID = null  
+<br />invoice.shipmentID = null
 <br />shipment.packing = null
 <br />shipment.shipping = null
 

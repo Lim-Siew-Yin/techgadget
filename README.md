@@ -1,15 +1,15 @@
 # techgadget
 
 Modified database:
-invoice.shipmentID = null
-shipment.packing = null
-shipment.shipping = null
+<br />invoice.shipmentID = null  
+<br />shipment.packing = null
+<br />shipment.shipping = null
 
 Modified code:
-admin
-includes/myaccount-sidebar
-my-account
+<br />admin
+<br />includes/myaccount-sidebar
+<br />my-account
 
 Added new file:
-reward
+<br />reward
 
